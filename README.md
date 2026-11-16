@@ -1,5 +1,8 @@
 # 🔐 SecurePass — Password Security Toolkit
 
+<img width="900" height="600" alt="toolkit-pic" src="https://github.com/user-attachments/assets/b8a2eab9-6473-4ca3-8920-7592425b4f12" />
+
+
 **SecurePass** is a Python-based password security toolkit designed to generate secure passwords, evaluate password strength, and create memorable passphrases. The project focuses on practical password security concepts, cryptographically secure randomness, password analysis, and clipboard management.
 
 ---
